@@ -1,90 +1,99 @@
-# 🔑 **Gerador de Senhas Fortes** 🛡️
+````markdown
+# 🔑 **Strong Password Generator** 🛡️
 
-Um gerador simples e rápido para criar senhas aleatórias seguras e complexas. Ideal para criar senhas seguras para diferentes aplicações ou sistemas.
-
----
-
-## 🚀 **Visão Geral do Projeto**
-
-O projeto é um programa interativo em Python que gera senhas aleatórias utilizando uma combinação de caracteres especiais, letras e números. O usuário pode gerar uma senha sempre que quiser ou sair do programa através do menu interativo.
+A simple and fast generator to create secure and complex random passwords. Ideal for creating strong passwords for different applications or systems.
 
 ---
 
-## 🛠️ **Recursos Principais**
+## 🚀 **Project Overview**
 
-### Funcionalidades:
-- **Gerar Senhas Aleatórias Seguras:** Senhas com comprimento variável entre 10 e 30.
-- **Menu Interativo Simples:** Opções claras para o usuário interagir.
-- **Interface Limpa no Console:** Limpeza da tela com `os.system('cls')` para uma experiência agradável.
-- **Segurança com Caracteres Complexos:** Senhas são geradas utilizando letras, números e símbolos especiais.
+This project is an interactive Python program that generates random passwords using a combination of special characters, letters, and numbers. The user can generate a password whenever they want or exit the program via the interactive menu.
 
 ---
 
-## ⚙️ **Como Configurar**
+## 🛠️ **Main Features**
 
-### Pré-requisitos
-- Python 3.x deve estar instalado no seu sistema.
-- O ambiente deve permitir execução de scripts Python.
-
----
-
-## ▶️ **Como Executar**
-
-1. Clone este repositório no seu ambiente local:
-```bash
-git clone https://github.com/seu-usuario/gerador-senhas.git
-```
-
-2. Acesse a pasta do projeto:
-```bash
-cd gerador-senhas
-```
-
-3. Execute o código no terminal com:
-```bash
-python seu_arquivo.py
-```
+### Functionality:
+- **Generate Secure Random Passwords:** Passwords with variable length between 10 and 30 characters.
+- **Simple Interactive Menu:** Clear options for user interaction.
+- **Clean Console Interface:** Screen clearing with `os.system('cls')` for a pleasant experience.
+- **Security with Complex Characters:** Passwords are generated using letters, numbers, and special symbols.
 
 ---
 
-## 🎮 **Menu Interativo**
+## ⚙️ **Setup**
 
-Após iniciar o programa, você verá o seguinte menu no terminal:
+### Prerequisites
+- Python 3.x must be installed on your system.
+- The environment must allow execution of Python scripts.
+
+---
+
+## ▶️ **How to Run**
+
+1. Clone this repository to your local environment:
+   ```bash
+   git clone https://github.com/your-username/strong-password-generator.git
+````
+
+2. Navigate to the project folder:
+
+   ```bash
+   cd strong-password-generator
+   ```
+
+3. Run the code in the terminal with:
+
+   ```bash
+   python your_file.py
+   ```
+
+---
+
+## 🎮 **Interactive Menu**
+
+After starting the program, you will see the following menu in the terminal:
 
 ```
 * Menu *
-1- Gerar senha
-2- Sair
+1- Generate password
+2- Exit
 R:
 ```
 
-### Opções:
+### Options:
 
-1. **Gerar Senha**
-   - Gera uma senha aleatória com um comprimento entre 10 e 30 caracteres.
-   - Utiliza letras, números e símbolos especiais para maior segurança.
-   
-2. **Sair**
-   - Encerra o programa.
+1. **Generate Password**
+
+   * Generates a random password with a length between 10 and 30 characters.
+   * Uses letters, numbers, and special symbols for enhanced security.
+
+2. **Exit**
+
+   * Terminates the program.
 
 ---
 
-## 🧮 **Lógica da Geração da Senha**
+## 🧮 **Password Generation Logic**
 
-O programa utiliza uma combinação de caracteres especiais, letras, números e símbolos para garantir senhas seguras. A senha gerada é composta aleatoriamente com o comprimento definido pelo programa.
+The program uses a combination of special characters, letters, numbers, and symbols to ensure secure passwords. The generated password is composed randomly with the length defined by the program.
 
-Os caracteres incluem:
+The character set includes:
+
 ```
 Z$K8GDV7ÂY]HN5{PÈ?SÒQUÌ4"<ÍJ&Ê!6}_3RÁWBÓ)TÙ2OÇ>EC+À;[#-1F9XM%Ú0IÔ:Ã(,*ÉLA@^/.ABCDEFGHIJKLMNOPQRSTUVWXYZ!@#$%^&*()"}{[]_+-/,;?. 1234567890:<>ÇÂÃÁÀÒÓÔÍÌÙÚÈÉÊ
 ```
 
 ---
 
-## ⚙️ **Tecnologias Utilizadas**
+## ⚙️ **Technologies Used**
 
-- **Python 3.x**
-- Biblioteca `os`: Para limpar a tela durante a execução do programa.
+* **Python 3.x**
+* `os` library: To clear the screen during program execution.
 
 ---
 
-Agora você está pronto para criar senhas seguras com apenas alguns cliques! 🔑✨
+Now you are ready to create secure passwords with just a few clicks! 🔑✨
+
+```
+```
