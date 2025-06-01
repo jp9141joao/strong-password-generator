@@ -32,4 +32,4 @@ This project is an interactive Python program that generates random passwords us
 
 1. Clone this repository to your local environment:
    ```bash
-   git clone https://github.com/jp9141joao/strong-password-generator
+   git clone https://github.com/jp9141joao/strong-password-generator.git
